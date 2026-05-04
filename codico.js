@@ -1,1 +1,2 @@
-alert("HOLA!");
+alert("HOLA!"); 
+return 0;
